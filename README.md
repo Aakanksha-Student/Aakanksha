@@ -59,6 +59,4 @@ Channel Partners show the highest profit margin, while Enterprise segment indica
 
 
 
-* Shorten this for a **GitHub repo description (3–4 lines)**
-* Rewrite it in a **more technical** or **beginner-friendly** tone
-* Add a **“Business Problem”** and **“Conclusion”** section for recruiters 💼
+
